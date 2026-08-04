@@ -1,9 +1,0 @@
-
-## Usage
-
-```
-python -m ser_models.main [-h] --model_name MODEL_NAME --cremad_root CREMAD_ROOT [--model_output_dir MODEL_OUTPUT_DIR]
-               [--result_output_dir RESULT_OUTPUT_DIR]
-```
-
-Training implementation adapted largely from  https://colab.research.google.com/github/m3hrdadfi/soxan/blob/main/notebooks/Emotion_recognition_in_Greek_speech_using_Wav2Vec2.ipynb
