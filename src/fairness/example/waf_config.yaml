@@ -1,0 +1,10 @@
+
+embedding_k: 100
+use_embeddings: true
+model_cache_dir: "./content/waf_training/models"
+data_cache_dir: "./content/waf_training/data"
+use_data_cache: true
+use_embedding_cache: true
+use_model_cache: true
+use_combination: false
+use_one_hot: false
